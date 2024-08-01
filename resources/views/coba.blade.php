@@ -49,6 +49,7 @@
             <div class="col-md-4">
                 <h3>Fitur 3</h3>
                 <p>Deskripsi singkat tentang fitur 3.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quisquam delectus eos eius libero consequuntur error ipsam quae provident! Perferendis aperiam ut earum esse excepturi necessitatibus eveniet iure neque libero.</p>
             </div>
         </div>
     </div>
